@@ -11,9 +11,7 @@ here dog Jumps in pool is caption generated from image and that can be heard.
 
 
 
-![image](https://user-images.githubusercontent.com/64769085/123532855-8680fd80-d72e-11eb-8574-32b645fcfd3e.png)
-
-
+![image](https://user-images.githubusercontent.com/64769085/123532892-d9f34b80-d72e-11eb-8e11-b06e5042ae06.png)
 
 
 Here two dogs are running through the snow is caption.
