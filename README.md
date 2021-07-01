@@ -1,6 +1,7 @@
 # Ai-bot-vision
 Introduction: It will be very good for those persons who can’t see, for them we developed this 
 model.
+
 Working Procedure:
 We use here some images and RESONET model to extract features and use RNN to get the 
 understanding of sentences and then use Dense layer, build matrix to pass through the model and
