@@ -16,3 +16,6 @@ here dog Jumps in pool is caption generated from image and that can be heard.
 
 Here two dogs are running through the snow is caption.
 
+
+
+So we are using a python library to use machinary voice and get sound from the vision. 
