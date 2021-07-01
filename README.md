@@ -9,6 +9,8 @@ get the output.
 GitHub link: https://github.com/Rahul-132/ai-bot
  Github link
 Notebook and code are available in GitHub, also the data is uploaded.
+
+
 Result: Over 80% accuracy we achieved through this model
 
 
